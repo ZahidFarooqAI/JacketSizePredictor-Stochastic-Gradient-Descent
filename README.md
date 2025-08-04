@@ -1,0 +1,2 @@
+# JacketSizePredictor-Stochastic-Gradient-Descent
+Predicting jacket sizes (in inches) based on a person’s age, height (cm), and weight (kg) using a ML algorithm called Stochastic Gradient Descent (SGD). The purpose is to create a simple, yet effective, predictive model suitable for applications in fashion technology, e-commerce, and custom tailoring, where precise sizing can enhance customer needs
